@@ -1,0 +1,9 @@
+name: HNTester
+main: com.ericlam.mc.hntester.HNTester
+version: ${project.version}
+api-version: "1.16"
+depend: [HyperNiteMC-Core, MinigameMiscs, ProtocolLib]
+softdepend: [PlaceholderAPI]
+commands:
+  test:
+    description: test command
