@@ -8,8 +8,10 @@ import com.comphenix.protocol.events.ScheduledPacket;
 import com.comphenix.protocol.wrappers.EnumWrappers;
 import com.hypernite.mc.hnmc.core.main.HyperNiteMC;
 import me.clip.placeholderapi.PlaceholderAPI;
+import org.bukkit.Bukkit;
 import org.bukkit.OfflinePlayer;
 import org.bukkit.plugin.java.JavaPlugin;
+import org.bukkit.scoreboard.DisplaySlot;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
